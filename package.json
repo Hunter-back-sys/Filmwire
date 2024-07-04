@@ -1,0 +1,26 @@
+{
+  "name": "filmwire",
+  "version": "1.0.0",
+  "description": "FilmWire is a Node.js project proof of concept featuring a basic backend and database. This project aims to demonstrate the fundamental structure and functionality of a Node.js application with a simple database integration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hunter-back-sys/Filmwire.git"
+  },
+  "keywords": [
+    "Node.js"
+  ],
+  "author": "Hunter O'Brien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hunter-back-sys/Filmwire/issues"
+  },
+  "homepage": "https://github.com/Hunter-back-sys/Filmwire#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "joi": "^17.13.3"
+  }
+}
